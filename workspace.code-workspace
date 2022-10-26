@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\F8_SHOP"
+		},
+		{
+			"path": "..\\baitapweb"
+		},
+		{
+			"path": "..\\bai_tap_ve_nha"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bai_tap_ve_nha"
+	}
+}
